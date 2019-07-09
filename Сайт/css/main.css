@@ -1,0 +1,651 @@
+@font-face {
+    font-family: Helvetica Neue;
+    src: url("../fonts/HelveticaNeueCyr-Thin.woff2") format("woff2") , url("../fonts/HelveticaNeueCyr-Thin.woff") format("woff") ;
+}
+
+body {
+		padding: 0px;
+		margin: 0px;
+	}
+
+/* Сайт One */
+	
+	header {
+		width: 1920px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+		background: #FCFDFF;
+		border-bottom: 1px solid #E1E4E9;
+		display: flex;
+	}
+
+	div, p, a, img, form, button {
+		box-sizing: border-box;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	.img_header_search {
+	display: block;
+	width: 29px;
+	height: 29px;
+	margin: 19px 0 16px 0;
+	margin-right: 33px;
+	float: left;
+	}
+
+	.nav_one {
+		width: 51px;
+		height: 21px;
+		font-family: Helvetica Neue;
+		font-size: 17px;
+		line-height: 21px;
+		margin-top: 0px;
+
+	}
+
+	ul, li {
+		display: block;
+		padding: 0px;
+		margin: 0px;
+	}
+
+	.nav_one {
+		display: flex;
+		margin-top: 21px;
+		margin-bottom: 22px;
+		margin-right: 122px;
+	}
+
+	ul li {
+		margin-right: 33px;
+	}
+
+	header li a{
+		color:#41537D;
+	}
+
+	button {
+		width: 149px;
+		height: 40px;
+		background-color: #fff;
+		border:1px solid #5E66FF;
+		color: #5E66FF;
+		margin: 14px 0 10px 0;
+		border-radius: 0px 15px 0px 0px;
+	}
+
+	.mad {
+		display: flex;
+		margin-left: auto;
+		margin-right: 108px;
+	}
+
+	.body-selector {
+		width: 1920px;
+		height: 73px;
+		display: flex;
+	}
+
+	.nav_two {
+		width: 51px;
+		height: 21px;
+		font-family: Helvetica Neue;
+		font-size: 17px;
+		margin-top: 33px;
+		margin-left:59px;
+	}
+
+	.nav_two {
+		display: flex;
+	}
+
+	.li_menu_two {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 20px;
+		text-transform: uppercase;
+		padding-right: 43px;
+		color: #41537D;
+	}
+
+	.img_nav-two {
+		margin-left:435px;
+		margin-top:20px;
+	}
+
+	.img_nav-three {
+		margin-left:925px;
+		margin-top:27px;
+	}
+
+	.img_nav-four {
+		margin-left:55px;
+		margin-top:27px;
+	}
+
+	.body-selector_two {
+		width: 1920px;
+		height: 640px;
+		background-color: #FAFBFB;
+		background-image: url("../images/main screen image copy.png");
+		background-repeat: no-repeat;
+		background-position: right;
+
+	}
+
+	.h1_body_two {
+		padding:290px 0px 0px 539px;
+	}
+
+	h1 {
+		width: 126px;
+		font-family: Helvetica Neue;
+		font-size: 42px;
+		line-height: 51px;
+		color: #3D5174;
+		border-bottom: 5px solid #F16C4B;
+		border-width: 5px 20px;
+		padding-bottom: 20px;
+	}
+
+	p {
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 24px;
+		color: #54698F;
+	}
+
+	.body-selector_three {
+		width: 1920px;
+		height: 1599px;
+	}
+
+	.img_body-three {
+		width: 599px;
+		height: 298px;
+	}
+
+	.body-selector_three-h2 {
+		font-family: Helvetica Neue;
+		font-size: 36px;
+		line-height: 44px;
+		color: #303A5F;
+	}
+
+	.body-selector-three-p_one {
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 31px;
+		color: #373E58
+	}
+
+	.selector_three-img_div {
+		display: flex;
+	}
+
+	.selector-three-h2-p {
+		margin-left: 38px;
+	}
+
+	.p-selector-three-two {	
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 33px;
+		color: #373E58;
+		margin-top: 85px;
+	}
+
+	.body-selector_three-content {
+		padding: 188px 0 0 468px;
+	}
+
+	/* Сайт One */
+	/* Сайт Two */
+
+	header {
+		width: 1920px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+		background: #FCFDFF;
+		border-bottom: 1px solid #E1E4E9;
+		display: flex;
+	}
+
+	div, p, a, img, form, button {
+		box-sizing: border-box;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	.img_header_search {
+	display: block;
+	width: 29px;
+	height: 29px;
+	margin: 19px 0 16px 0;
+	margin-right: 33px;
+	float: left;
+	}
+
+	.nav_one {
+		width: 51px;
+		height: 21px;
+		font-family: Helvetica Neue;
+		font-size: 17px;
+		line-height: 21px;
+		margin-top: 0px;
+
+	}
+
+	ul, li {
+		display: block;
+		padding: 0px;
+		margin: 0px;
+	}
+
+	.nav_one {
+		display: flex;
+		margin-top: 21px;
+		margin-bottom: 22px;
+		margin-right: 122px;
+	}
+
+	ul li {
+		margin-right: 33px;
+	}
+
+	header li a{
+		color:#41537D;
+	}
+
+	button {
+		width: 149px;
+		height: 40px;
+		background-color: #fff;
+		border:1px solid #5E66FF;
+		color: #5E66FF;
+		margin: 14px 0 10px 0;
+		border-radius: 0px 15px 0px 0px;
+	}
+
+	.mad {
+		display: flex;
+		margin-left: auto;
+		margin-right: 108px;
+	}
+
+	.body-selector {
+		width: 1920px;
+		height: 73px;
+		display: flex;
+	}
+
+	.nav_two {
+		width: 51px;
+		height: 21px;
+		font-family: Helvetica Neue;
+		font-size: 17px;
+		margin-top: 33px;
+		margin-left:59px;
+	}
+
+	.nav_two {
+		display: flex;
+	}
+
+	.li_menu_two {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 20px;
+		text-transform: uppercase;
+		padding-right: 43px;
+		color: #41537D;
+	}
+
+	.img_nav-two {
+		margin-left:435px;
+		margin-top:20px;
+	}
+
+	.img_nav-three {
+		margin-left:925px;
+		margin-top:27px;
+	}
+
+	.img_nav-four {
+		margin-left:55px;
+		margin-top:27px;
+	}
+
+	.body-selector_two_sait-two {
+		width: 1920px;
+		height: 640px;
+		background-color: #fff;
+		border-top: 5px solid #FCFDFF;
+		background-image: url("../images/main screen image copy.png");
+		background-repeat: no-repeat;
+		background-position: right;
+
+	}
+
+	.h1_body_two {
+		padding:290px 0px 0px 539px;
+	}
+
+	h1 {
+		width: 126px;
+		font-family: Helvetica Neue;
+		font-size: 42px;
+		line-height: 51px;
+		color: #3D5174;
+		border-bottom: 5px solid #F16C4B;
+		border-width: 5px 20px;
+		padding-bottom: 20px;
+	}
+
+	p {
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 24px;
+		color: #54698F;
+	}
+
+	.img_body-sait-two {
+		width: 1024px;
+		height: 499px;
+	}
+
+	.main-boty_sait-two {
+		display: block;
+		width: 1920px;
+		height: 2690px;
+		content: ' ';
+		background-color: #FCFDFF;
+	}
+
+	.h3-sait-two_body {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 20px;
+		color: #41537D;
+	}
+
+	.h2-sait-two_body {
+		font-family: Helvetica Neue;
+		font-size: 36px;
+		line-height: 44px;
+		color: #303A5F;
+	}
+
+	.p-sait-two_body {
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 31px;
+		color: #373E58;
+	}
+
+	.div_data-sait-two_body {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 19px;
+		color: #8390AE;
+	}
+
+	.content-sait_two {
+		padding: 151px 0 0 449px;
+	}
+
+	/* Сайт Two */
+	/* Сайт Three */ 
+
+	header {
+		width: 1920px;
+		height: 64px;
+		left: 0px;
+		top: 0px;
+		background: #FCFDFF;
+		border-bottom: 1px solid #E1E4E9;
+		display: flex;
+	}
+
+	div, p, a, img, form, button {
+		box-sizing: border-box;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	.img_header_search {
+		display: block;
+		width: 29px;
+		height: 29px;
+		margin: 19px 0 16px 0;
+		margin-right: 33px;
+		float: left;
+	}
+
+	.nav_one {
+		width: 51px;
+		height: 21px;
+		font-family: Helvetica Neue;
+		font-size: 17px;
+		line-height: 21px;
+		margin-top: 0px;
+
+	}
+
+	ul, li {
+		display: block;
+		padding: 0px;
+		margin: 0px;
+	}
+
+	.nav_one {
+		display: flex;
+		margin-top: 21px;
+		margin-bottom: 22px;
+		margin-right: 122px;
+	}
+
+	ul li {
+		margin-right: 33px;
+	}
+
+	header li a{
+		color:#41537D;
+	}
+
+	button {
+		width: 149px;
+		height: 40px;
+		background-color: #fff;
+		border:1px solid #5E66FF;
+		color: #5E66FF;
+		margin: 14px 0 10px 0;
+		border-radius: 0px 15px 0px 0px;
+	}
+
+	.mad {
+		display: flex;
+		margin-left: auto;
+		margin-right: 108px;
+	}
+
+	.body-selector {
+		width: 1920px;
+		height: 73px;
+		display: flex;
+	}
+
+	.nav_two {
+		width: 51px;
+		height: 21px;
+		font-family: Helvetica Neue;
+		font-size: 17px;
+		margin-top: 33px;
+		margin-left:59px;
+	}
+
+	.nav_two {
+		display: flex;
+	}
+
+	.li_menu_two {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 20px;
+		text-transform: uppercase;
+		padding-right: 43px;
+		color: #41537D;
+	}
+
+	.img_nav-two {
+		margin-left:435px;
+		margin-top:20px;
+	}
+
+	.img_nav-three {
+		margin-left:925px;
+		margin-top:27px;
+	}
+
+	.img_nav-four {
+		margin-left:55px;
+		margin-top:27px;
+	}
+
+	.body-selector_two_sait-two {
+		width: 1920px;
+		height: 640px;
+		background-color: #fff;
+		border-top: 5px solid #FCFDFF;
+		background-image: url("../images/main screen image copy.png");
+		background-repeat: no-repeat;
+		background-position: right;
+
+	}
+
+	.h1_body_two {
+		padding:290px 0px 0px 539px;
+	}
+
+	h1 {
+		width: 126px;
+		font-family: Helvetica Neue;
+		font-size: 42px;
+		line-height: 51px;
+		color: #3D5174;
+		border-bottom: 5px solid #F16C4B;
+		border-width: 5px 20px;
+		padding-bottom: 20px;
+	}
+
+	p {
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 24px;
+		color: #54698F;
+	}
+
+	.selector_div-one_sait_three {	
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 20px;
+		color: #41537D;
+		padding-left: 107px;
+	}
+
+	.h2_sector-sait-three {	
+		font-family: Helvetica Neue;
+		font-size: 58px;
+		line-height: 71px;
+		color: #384968;
+		padding-left: 107px;
+	}
+
+	.selector_div-two_sait_three {
+		font-family: Helvetica Neue;
+		font-size: 23px;
+		line-height: 31px;
+		color: #373E58;
+		padding-left: 107px;
+	}
+
+	.img_sector-one_sait-three {
+		width: 66px;
+		height: 66px;
+		background-image: url("../images/Ellipse.png");
+	}
+
+	.data-name_sector-one {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 19px;
+		color: #4C5B7C;
+	}
+
+	.data-name_sector-two {
+		font-family: Helvetica Neue;
+		font-size: 16px;
+		line-height: 19px;	
+		color: #8390AE;
+	}
+
+	.p-one_sait_three {
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 31px;
+		color: #373E58;
+		margin-top: 40px;
+		padding-left: 107px;
+	}
+
+	.div-people-images_three {
+		margin-top: 59px;
+
+	}
+
+	.people-images_three {
+		width: 982px;
+		height: 479px;
+	}
+
+	.data_img-sector-sait_three {
+		display: flex;
+		margin-top: 13px;
+		padding-left: 107px;
+	}
+
+	.data-sector-sait_three {
+		margin-left: 14px;
+		margin-top: 15px;
+	}
+
+	.p-two_sait_three {
+		display: block;
+		font-family: Helvetica Neue;
+		font-size: 20px;
+		line-height: 31px;
+		color: #373E58;
+		margin-top: 67px;
+		padding-left: 107px;
+	}
+
+	.main-boty_sait-three {
+		width: 1920px;
+		height: 2651px;
+		padding-left: 348px;
+		padding-top: 225px;
+	}
+	
+	.img-logo_sait-three {
+		padding-top: 13px;
+		padding-left:16px;
+	}
